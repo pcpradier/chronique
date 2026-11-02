@@ -1,1 +1,3 @@
-IyBNaWNyby1MMQoKQ291cnMgZGUgbWljcm9lY29ub21pZSBkZSBwcmVtaWVyZSBhbm5lZSAoTDEpLg==
+# chronique
+
+Textes de la chronique réglementaire (décisions EIOPA, etc.) et documents de travail associés.
